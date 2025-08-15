@@ -13,16 +13,16 @@ Built as part of a data visualization and analytics learning journey.
 
 ---
 
-## 📂 Repository Structure
+📂 PowerBI-Healthcare-Analysis/
 
-├── LICENSE # License file
-├── PBI/ # Power BI project files (.pbix, zipped)
-├── README.md # Project documentation
-├── docs/ # Additional documentation
-├── notes/ # Development notes
-├── powerBI/ # Related scripts and files
-├── assets/ # Screenshots & preview images
-└── data/ # Sample datasets (if shareable)
+├── LICENSE                # License file
+├── PBI/                   # Power BI project files (.pbix, zipped)
+├── README.md              # Project documentation
+├── docs/                  # Additional documentation
+├── notes/                 # Development notes
+├── powerBI/               # Related scripts and files
+├── assets/                # Screenshots & preview images
+└── data/                  # Sample datasets (if shareable)
 
 yaml
 Copy
