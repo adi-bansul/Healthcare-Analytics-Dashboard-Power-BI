@@ -14,6 +14,7 @@ Built as part of a data visualization and analytics learning journey.
 ---
 
 ## 📂 Repository Structure
+
 ├── LICENSE # License file
 ├── PBI/ # Power BI project files (.pbix, zipped)
 ├── README.md # Project documentation
